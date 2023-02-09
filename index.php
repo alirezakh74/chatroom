@@ -33,7 +33,7 @@ if (!isset($_SESSION['username'])) {
         </div>
     </div>
 
-    <script src="js/jquery-3.6.1.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
     <script>
         $(document).ready(function() {
             //send message to server for save it
